@@ -555,39 +555,6 @@ nav ul a {
     padding: 100px 0 100px 0;
     background-color: #F5F5F5;
 }
-/* .image {
-	background-color: #5a5a5a;
-	width: 100%;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	transition: .5s;
-}
-.image:hover {
-	opacity: 0.6;
-	transition: .3s;
-	background-image: url(../images/hoverbg.png);
-	background-repeat: no-repeat;
-	background-position: center;
-} */
-
-/* body {
-	margin: 40px 0;
-	font-family: "Raleway";
-	font-size: 14px;
-	font-weight: 500;
-	background-color: #BCAAA4;
-	-webkit-font-smoothing: antialiased;
-  } */
-
-/* .title {
-	font-family: "Raleway";
-	font-size: 24px;
-	font-weight: 700;
-	color: #5D4037;
-	text-align: center;
-  } */
-
 
 p {
     line-height: 1.5em;
@@ -597,22 +564,7 @@ p {
         margin-top: 10px;
     }
 
-/* .friendFinder {
-	padding-right: 40px;
-	padding-bottom: 10px;
-  }
 
-.wallet {
-	padding-right: 40px;
-}
-
-.bamazon {
-	padding-right: 40px;
-}
-
-.GifTastic {
-	padding-right: 40px;
-} */
 
 .portfolio-container {
     /* padding: 40px 80px; */
