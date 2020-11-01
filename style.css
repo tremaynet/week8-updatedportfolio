@@ -543,6 +543,12 @@ nav ul a {
     color: #e55d87;
 }
 
+/* Resume
+********************************************************* */
+#resume {
+    padding: 100px 0 100px 0;
+	background-color: #F5F5F5;
+}
 /* Education Section
 ********************************************************* */
 #education {
